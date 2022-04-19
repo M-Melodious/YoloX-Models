@@ -1,1 +1,0 @@
-The YoloX-x pytorch weights are converted into Intel intermediate representation (IR) and further INT8 using OpenVino Toolkit 2021.4.2 version.
